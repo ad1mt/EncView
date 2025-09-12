@@ -1,6 +1,6 @@
 Encview v5.01
 ==============
-This is Mark Taylor's personal password manager.
+This is my own personal password manager.
 
 If you stumble across this program, use it at your own risk!
 
