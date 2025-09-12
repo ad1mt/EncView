@@ -1,4 +1,4 @@
-Encview v5.01
+Encview v5.02
 ==============
 This is my own personal password manager.
 
