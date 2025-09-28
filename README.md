@@ -13,5 +13,5 @@ there are no hidden backdoors that will allow unwanted decryption.
 Written using the Free Pascal compiler. Explanation of the encryption algorithm available on request.
 
 The latest version has bug fixes; if you are using this program, you are recommened to upgrade. 
-However, you MUST decrypt your file using the previous version into a plain test file, then re-encrypt using the
+However, you MUST decrypt your file using the previous version into a plain text file, then re-encrypt using the
 latest version.
