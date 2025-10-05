@@ -1,4 +1,4 @@
-Encview v5.02
+Encview v6.0
 ==============
 This is my own personal password manager.
 
@@ -12,6 +12,6 @@ there are no hidden backdoors that will allow unwanted decryption.
 
 Written using the Free Pascal compiler. Explanation of the encryption algorithm available on request.
 
-The latest version has bug fixes; if you are using this program, you are recommened to upgrade. 
-However, you MUST decrypt your file using the previous version into a plain text file, then re-encrypt using the
-latest version.
+The latest version does zcompression on the encrypted files to make them smaller. 
+If you are already using this program, you MUST decrypt your file using the previous version into a plain text file,
+then re-encrypt using the latest version. The latest version is not compatible with files created by earlier versions.
