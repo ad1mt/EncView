@@ -1,4 +1,4 @@
-Encview v6.3
+Encview v6.4
 ==============
 This is my own personal password manager.
 
@@ -15,7 +15,8 @@ Written using the Free Pascal compiler.
 This uses my own encryption algorithm. I am happy to give an explanation of the algorithm on request, or you can
 examine the source code.
 
-The latest version fixes a bug that appeared if you typed an incorrect password, then re-entered the correct password. 
+The latest version has minor bug fixes.
+
 If you are already using an earlier version 6 series of this program, this version will read existing files.
 If you are using any version of this program prior to 6 series, you MUST decrypt your file using the previous version into a
 plain text file, then re-encrypt using the latest version. The latest version is not compatible with files
